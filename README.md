@@ -1,4 +1,4 @@
-# Aixin's Portfolio
+# 💼 Aixin's Portfolio
 
 ## Project 1: Supermarket Purchasing & Customer Insights
 
