@@ -9,5 +9,5 @@ This project analyzes supermarket transaction data to explore purchasing pattern
 Rather than focusing solely on overall product demand, the analysis examines how purchasing behavior varies across different segments and locations.
 
 Tools Used
-- **Microsoft Excel** - For analyis
+- **Microsoft Excel** - For preparation and analysis
 - **Tableau** - For visualization
