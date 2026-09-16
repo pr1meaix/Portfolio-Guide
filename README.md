@@ -1,6 +1,6 @@
 # 💼 Aixin's Portfolio
 
-## Project 1: Supermarket Purchasing & Customer Insights
+## Project 1: [Supermarket Purchasing & Customer Insights](#supermarket-purchasing-customer-insights) 
 
 Understanding what customers purchase is essential for supermarkets seeking to improve inventory planning, promotional strategies, and customer targeting. However, overall purchasing volume alone may not fully capture differences in demand across store locations and customer groups.
 
